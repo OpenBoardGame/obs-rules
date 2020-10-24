@@ -1,2 +1,2 @@
 # obs-rules
-OpenBoardGame's rules reference. For the nerds!
+OpenBoardGame's rules and data index. For the nerds!
